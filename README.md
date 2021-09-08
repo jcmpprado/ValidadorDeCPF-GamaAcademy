@@ -14,7 +14,7 @@ Exercício prático proposto e elaborado no módulo de Javascript no curso de im
 
 ------
 
-![](C:\Workspace\Gama academy\Javascript\projeto\Validador cpf\validadordecpf.JPG)
+![validadordecpf](https://user-images.githubusercontent.com/87131837/132477516-1f5de7a4-8bbd-485a-b043-05cfa049b313.JPG)
 
 ###### Funcionalidades :gear:
 
