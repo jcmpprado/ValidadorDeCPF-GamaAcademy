@@ -1,0 +1,22 @@
+*{
+  font-family: 'poppins', sans-serif ;
+
+}
+
+.jumbotron {
+  background-color: #5BC0DE;
+}
+
+.jumbotron h1 {
+  font-weight: 600;
+}
+
+.jumbotron p{
+  font-weight: 500;
+
+}
+
+.formulario {
+  margin-top: 5%;
+
+}
