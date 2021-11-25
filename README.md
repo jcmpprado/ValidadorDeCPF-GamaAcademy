@@ -31,7 +31,6 @@ Exercício prático proposto e elaborado no módulo de Javascript no curso de im
  * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-* [Java](
 * [Bootstrap](https://getbootstrap.com/)
 
 
